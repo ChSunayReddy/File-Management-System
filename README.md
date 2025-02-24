@@ -40,5 +40,6 @@ Finally, when the user selects the exit option, the output confirms:
 "Exiting..."
 In essence, the outputs of this program are designed to provide clear and informative messages for every possible scenario.
 
+#OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/0fc7de9c-9a7b-4968-9843-7b19d602fb05)
