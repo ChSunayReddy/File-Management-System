@@ -1,6 +1,6 @@
 # File-Management-System
 
-*COMPANY*: COOTECH IT SOLUTIONS
+*COMPANY*: CODTECH IT SOLUTIONS
 
 *NAME*:  Ch Sunay Reddy
 
